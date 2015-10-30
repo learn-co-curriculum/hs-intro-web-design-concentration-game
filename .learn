@@ -1,0 +1,11 @@
+languages:
+  - html
+  - css
+tags:
+-kids 
+  - sprites
+  - rollovers
+  - images
+  - background-position
+type:
+  - lab
