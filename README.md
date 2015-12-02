@@ -12,3 +12,5 @@ You'll want to have the card flip when you hover your mouse over the card. The s
 
 Don't forget to save your changes and refresh in the browser to check your work!
 
+
+<a href='https://learn.co/lessons/hs-intro-web-design-concentration-game' data-visibility='hidden'>View this lesson on Learn.co</a>
